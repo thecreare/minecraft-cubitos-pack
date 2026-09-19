@@ -1,0 +1,13 @@
+name = "cubitos"
+author = "creare"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a68a1597c04acaf99f2e22918db28be3fbaf9f35d50747674a1cb55ee641a218"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"
