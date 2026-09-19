@@ -23,7 +23,7 @@ menu_background {
   instance_identifier = 74d071cd-954f-4f0c-a38f-2238c1dfb539-1789787618245
   background_type = panorama
   show_background = false
-  panorama_name = a
+  panorama_name = romans_house
 }
 
 menu_background {

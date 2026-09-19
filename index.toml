@@ -1,128 +1,84 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/fancymenu/custom_gui_screens.txt"
-hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+file = "config/astrocraft.json"
+hash = "275b27775c613089778bc95929f65e2479b0105c8aec6084154d4ffc363c712d"
+
+[[files]]
+file = "config/betternether/biomes.json"
+hash = "75590e5d2409d7e584135c6bd2cfedd4ab7b07f4639590b4fcbd65f8d6285137"
+
+[[files]]
+file = "config/betternether/items.json"
+hash = "9ebe9a0ee52e11b6b31ddc0ec240f3c5b1874a5f38b2792debe89d8296114d0b"
+
+[[files]]
+file = "config/cumulus_menus-client.toml"
+hash = "0d13c1ef9894bb8e0ead5af8be1cac9fe2713e24f4f7c633c13d8b9bf8026b7f"
+
+[[files]]
+file = "config/distantfriends-common.toml"
+hash = "75ac9e00beeaced392de35debbe94f455c33942a8e2f956bc2005a61a6aa1790"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "c21c730112a459ee897067bef4f5edf83f88319b4fd9decd275d505571ab0470"
+hash = "6379381a86c217ec8311d5a66c732563b12e28e656c4b21630449513e8f5682d"
 
 [[files]]
 file = "config/fancymenu/customization/fixedlayout.txt"
-hash = "0c618604397ce0292c5398202fcc642a83359f70f4aa993d2113febbed2f9c25"
+hash = "99c3dc130bc20a3470133bb72d5de6b306323aade8174e4f495111d1d2d7fff4"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
 hash = "ff68aa00d155b49eda89dea7764ef23a561ab0d5fb8dd191a755a27f7285095a"
 
 [[files]]
-file = "config/fancymenu/legacy_checklist.txt"
-hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
-
-[[files]]
 file = "config/fancymenu/options.txt"
-hash = "8ab246f419b5b363ab186db80fad034e743675450c90cca80f1f4aef1dd813c6"
+hash = "0c739580eeb5d1871928820b6f31144b702dae2b2499ed7edf5d95b9573633b6"
 
 [[files]]
-file = "config/fancymenu/panoramas/a/panorama/panorama_0.png"
+file = "config/fancymenu/panoramas/romans_house/panorama/panorama_0.png"
 hash = "328e3fa6b58d8a3b0c9f23ccc4aa77b2a0ba7fe65a3e5ed838dad25bb9f9d495"
 
 [[files]]
-file = "config/fancymenu/panoramas/a/panorama/panorama_1.png"
+file = "config/fancymenu/panoramas/romans_house/panorama/panorama_1.png"
 hash = "1caa0127f67c584539e858f5905b975b0c1a275a882bd31644d58dbaaa7fec84"
 
 [[files]]
-file = "config/fancymenu/panoramas/a/panorama/panorama_2.png"
+file = "config/fancymenu/panoramas/romans_house/panorama/panorama_2.png"
 hash = "dfce0531a963d672bf72b9656921bd0b9f40ac8d4064b360a70279152a4c5771"
 
 [[files]]
-file = "config/fancymenu/panoramas/a/panorama/panorama_3.png"
+file = "config/fancymenu/panoramas/romans_house/panorama/panorama_3.png"
 hash = "f29a4883a3168b6cb6c5095350f20889633ca3c507ed62a2672c6b4b6a9566f9"
 
 [[files]]
-file = "config/fancymenu/panoramas/a/panorama/panorama_4.png"
+file = "config/fancymenu/panoramas/romans_house/panorama/panorama_4.png"
 hash = "59b8ab27c35f19e00cc978e7912cb53ed90f30069bb122fb491428e5936e0086"
 
 [[files]]
-file = "config/fancymenu/panoramas/a/panorama/panorama_5.png"
+file = "config/fancymenu/panoramas/romans_house/panorama/panorama_5.png"
 hash = "f276ee290cf5cf1ad2bfd648ef1183fa5a1b74ddcc9d3fac086b80d934fc8f1f"
 
 [[files]]
-file = "config/fancymenu/panoramas/a/properties.txt"
+file = "config/fancymenu/panoramas/romans_house/properties.txt"
 hash = "dbaa826059b4e7fe95cd1bc13926a7098fd9bf5f54b7f8f9edc35050f25f17b0"
-
-[[files]]
-file = "config/fancymenu/panoramas/b/panorama/panorama_0.png"
-hash = "98adeb2374729c349144465df6cbbd62787f1e9fe6e9a0ccb7f4ecb2a1e5b51b"
-
-[[files]]
-file = "config/fancymenu/panoramas/b/panorama/panorama_1.png"
-hash = "a93cfcc882bc65528e2aa2efc5c105c6550b2b0d84025bcd6539e5f89e9ab908"
-
-[[files]]
-file = "config/fancymenu/panoramas/b/panorama/panorama_2.png"
-hash = "7b6c4e246a8b28ccb3c6b5b68aeb88f28affe7aeb5fc6eb010a01ddb38dc53c9"
-
-[[files]]
-file = "config/fancymenu/panoramas/b/panorama/panorama_3.png"
-hash = "8c3f73436e6170031006dfe69407ae3efd10017afa4dd52303f75e5421e219d1"
-
-[[files]]
-file = "config/fancymenu/panoramas/b/panorama/panorama_4.png"
-hash = "c9b9dd0ba6dab987d31b8e90b6d19e970337ab22fa1236b41078f7e85b989be8"
-
-[[files]]
-file = "config/fancymenu/panoramas/b/panorama/panorama_5.png"
-hash = "0ac0b3af725b9e88ce5b9fece36fee0ede589a300aacaa81670e21c94b88a34c"
-
-[[files]]
-file = "config/fancymenu/panoramas/b/properties.txt"
-hash = "5b653901e3a2612f240bdff114b1e2a282fb7eca81d40e675a09e756fd71b103"
-
-[[files]]
-file = "config/fancymenu/ui_themes/cherry_blossom.json"
-hash = "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452"
-
-[[files]]
-file = "config/fancymenu/ui_themes/cozy_campfire.json"
-hash = "1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50"
-
-[[files]]
-file = "config/fancymenu/ui_themes/dark.json"
-hash = "01e2a3b5d250c0259a7f97f0d353785bfeab6d7ee2e147c16bb910f1d23e9498"
-
-[[files]]
-file = "config/fancymenu/ui_themes/dark_high_contrast.json"
-hash = "54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26"
-
-[[files]]
-file = "config/fancymenu/ui_themes/light.json"
-hash = "a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153"
-
-[[files]]
-file = "config/fancymenu/ui_themes/light_high_contrast.json"
-hash = "7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a"
-
-[[files]]
-file = "config/fancymenu/ui_themes/pumpkin_soup.json"
-hash = "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311"
-
-[[files]]
-file = "config/fancymenu/ui_themes/purple_void.json"
-hash = "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0"
-
-[[files]]
-file = "config/fancymenu/ui_themes/spooky_season.json"
-hash = "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"
-
-[[files]]
-file = "config/fancymenu/user_variables.db"
-hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/feywild/client.json5"
 hash = "6a3bbb550835a8bb7fc4c7726cdde7df953d72a1331f48ed498cc78284ab085d"
+
+[[files]]
+file = "config/mafglib.json"
+hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "ca92e91a2d856d42e4a5b1ba1900fbed0e942bcbeddd75c0195a2375ade75695"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "f607613fba825fac864f11a7f4679979bc9696a63e18264ba3bb8abe31bcf847"
 
 [[files]]
 file = "icon.png"
@@ -912,11 +868,6 @@ hash = "894f47d410084f927719edb60a0c728c83bfe06c8e377db39a711cc402ae54fe"
 metafile = true
 
 [[files]]
-file = "mods/forgematica.pw.toml"
-hash = "d35c2f62e641b0adae020fae0069f5404dc669e30b08f9ef9c62965f7f3a8b9b"
-metafile = true
-
-[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "70fd96fcd2dba4bb17a4019dddef9ef9e9f760b31c2fa6ff3ae8a506fface644"
 metafile = true
@@ -1369,6 +1320,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "dc7a6ef6eadc3eaf0a25c9c7e22e5a8fddb189e145fdf26609040e88f251f174"
+metafile = true
+
+[[files]]
+file = "mods/mods-optimizer.pw.toml"
+hash = "4fab4c09297f7d46416fbffaf7eeefc33a330d390d40b052352ccbc4259a4f5a"
 metafile = true
 
 [[files]]
