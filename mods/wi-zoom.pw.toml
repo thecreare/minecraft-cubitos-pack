@@ -1,13 +1,14 @@
-filename = 'WI-Zoom-1.5-MC1.20.1-Forge.jar'
-name = 'WI Zoom'
-side = 'client'
+name = "WI Zoom"
+filename = "WI-Zoom-1.5-MC1.20.1-Forge.jar"
+side = "client"
 
 [download]
-hash = '923733806726c4cf34f0e9ba95db7745979d7aea79d27936f4def005882ad17b364316226915adc399895dfaf8e28866481fec358308b5b5228cbf46e8de2e3d'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/o7DitHWP/versions/lrZgFzcQ/WI-Zoom-1.5-MC1.20.1-Forge.jar'
+url = "https://cdn.modrinth.com/data/o7DitHWP/versions/lrZgFzcQ/WI-Zoom-1.5-MC1.20.1-Forge.jar"
+hash-format = "sha256"
+hash = "76a7b8e701d0ef27b1836a300ebd65b48193d211c0032511c943472fa653d883"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'o7DitHWP'
-version = 'lrZgFzcQ'
+mod-id = "o7DitHWP"
+version = "lrZgFzcQ"

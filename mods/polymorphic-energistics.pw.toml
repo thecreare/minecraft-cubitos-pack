@@ -1,13 +1,14 @@
-filename = 'polyeng-forge-0.1.1-1.20.1.jar'
-name = 'Polymorphic Energistics'
-side = 'both'
+name = "Polymorphic Energistics"
+filename = "polyeng-forge-0.1.1-1.20.1.jar"
+side = "both"
 
 [download]
-hash = '30561153bcf472aa0eeb642990c9f34adeba6d270982b2a08c7bee8fc74c1d414d3f142e98eba76bd32133d9fe7b689da78b6cd5ad0b5fed40bf3d72393e4c97'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/VS1a14jA/versions/tCb9SvuL/polyeng-forge-0.1.1-1.20.1.jar'
+url = "https://cdn.modrinth.com/data/VS1a14jA/versions/tCb9SvuL/polyeng-forge-0.1.1-1.20.1.jar"
+hash-format = "sha256"
+hash = "595eeacf80632633967c1a21b751a6d981b2ac12c16416ec3993b26f26df3af0"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'VS1a14jA'
-version = 'tCb9SvuL'
+mod-id = "VS1a14jA"
+version = "tCb9SvuL"

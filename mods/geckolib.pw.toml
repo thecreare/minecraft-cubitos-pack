@@ -1,16 +1,14 @@
-filename = 'geckolib-forge-1.20.1-4.7.jar'
-name = 'GeckoLib 4'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "GeckoLib 4"
+filename = "geckolib-forge-1.20.1-4.7.jar"
+side = "both"
 
 [download]
-hash = '4efd2d70533d73fc70012b0969bac9fb6035a4ebcc8b6ccb692321456bcc044da93a12b44392fca3c607889c134acd41db9e0fed376151a46d5391c56881a149'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/8BmcQJ2H/versions/LwI6czff/geckolib-forge-1.20.1-4.7.jar'
+url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/LwI6czff/geckolib-forge-1.20.1-4.7.jar"
+hash-format = "sha256"
+hash = "bce8ed8bd22fc1c673c2d64dbd89c2e4922958c46bd2dad4ad43a69b0dc3924a"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = '8BmcQJ2H'
-version = 'LwI6czff'
+mod-id = "8BmcQJ2H"
+version = "LwI6czff"

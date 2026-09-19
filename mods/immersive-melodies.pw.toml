@@ -1,13 +1,14 @@
-filename = 'immersive_melodies-0.3.0+1.20.1-forge.jar'
-name = 'Immersive Melodies'
-side = 'both'
+name = "Immersive Melodies"
+filename = "immersive_melodies-0.3.0+1.20.1-forge.jar"
+side = "both"
 
 [download]
-hash = 'e5aa0710d001b7b071b3843e91cf2a42fbcdd06057cf4d15cc74922885282cd257b2c61c240df9be78f4c1487c61d39946dcfe6e4a714440835e5467bb1d887a'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/TaSmHw8V/versions/zjMy2oFH/immersive_melodies-0.3.0%2B1.20.1-forge.jar'
+url = "https://cdn.modrinth.com/data/TaSmHw8V/versions/zjMy2oFH/immersive_melodies-0.3.0%2B1.20.1-forge.jar"
+hash-format = "sha256"
+hash = "7b9eede7e595365d00733d16175e83c2dc35a484792147bee4a9f4100e3e5486"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'TaSmHw8V'
-version = 'zjMy2oFH'
+mod-id = "TaSmHw8V"
+version = "zjMy2oFH"

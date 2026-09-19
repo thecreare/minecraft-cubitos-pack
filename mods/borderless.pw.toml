@@ -1,13 +1,13 @@
-filename = 'BorderlessWindow-1.20-1.6.0.jar'
-name = 'Borderless Window'
-side = 'both'
+name = "Borderless Window"
+filename = "BorderlessWindow-1.20-1.6.0.jar"
+side = "both"
 
 [download]
-hash = '2dc2dca0371065bf384b6486827451da441b5471'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "43a317d85e7e40cea296ad1fe2d32f433f0e735bdb81b136f6f07d379039c3a9"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 4575494
 project-id = 378979

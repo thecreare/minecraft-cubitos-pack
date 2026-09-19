@@ -1,13 +1,13 @@
-filename = 'Resource Ghouls V1.8 - Forge 1.20.1.jar'
-name = 'Resource Ghouls'
-side = 'both'
+name = "Resource Ghouls"
+filename = "Resource Ghouls V1.8 - Forge 1.20.1.jar"
+side = "both"
 
 [download]
-hash = '85030adfe9c45b8bc20504777be633154ac57e3b'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "02339b8e925734dc1e8bd7221a91056224a1801fab7bd4d9e4334bffff9dbd26"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5690008
 project-id = 1030130

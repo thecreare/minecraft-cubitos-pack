@@ -1,13 +1,14 @@
-filename = 'endersdelight-1.20.1-1.0.3.jar'
 name = "Ender's Delight"
-side = 'both'
+filename = "endersdelight-1.20.1-1.0.3.jar"
+side = "both"
 
 [download]
-hash = 'ed80ecb16eb8e6b6f57db14fbf51221c3c8c89105d5d24fbe32bf8a72d7b782779378aeb37a86a2ed8bdabc51065624297b9bac8f9bd2d5382154ace707caec6'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/2uEhdGKt/versions/1yJCBCX9/endersdelight-1.20.1-1.0.3.jar'
+url = "https://cdn.modrinth.com/data/2uEhdGKt/versions/1yJCBCX9/endersdelight-1.20.1-1.0.3.jar"
+hash-format = "sha256"
+hash = "c0e2908e6f0d11bb79d63d4ae491d4deaa268c4f4e3ed0b6be840d244e2cff00"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = '2uEhdGKt'
-version = '1yJCBCX9'
+mod-id = "2uEhdGKt"
+version = "1yJCBCX9"

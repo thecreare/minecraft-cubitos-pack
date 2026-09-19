@@ -1,13 +1,14 @@
-filename = 'nct-1.0.jar'
-name = 'No Crop Trampling'
-side = 'server'
+name = "No Crop Trampling"
+filename = "nct-1.0.jar"
+side = "server"
 
 [download]
-hash = 'bee766b56afe852d803e3b7d9291f078ea97b6e65ff01153d33810c2519e38c542a0b92b629989d9bdd80c5fdd29ce581185c23c0b9e4f1a3ccf0e76e10b2a15'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/eaKsrFEV/versions/szzV9pb7/nct-1.0.jar'
+url = "https://cdn.modrinth.com/data/eaKsrFEV/versions/szzV9pb7/nct-1.0.jar"
+hash-format = "sha256"
+hash = "703eede54ecc396709296fc188e8722f5c65576441a4fb588557549ad1ffba13"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'eaKsrFEV'
-version = 'szzV9pb7'
+mod-id = "eaKsrFEV"
+version = "szzV9pb7"

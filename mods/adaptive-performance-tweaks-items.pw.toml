@@ -1,16 +1,13 @@
-filename = 'adaptive_performance_tweaks_items_1.20.1-11.3.0.jar'
-name = 'APTweaks: Items'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "APTweaks: Items (11.x Classic)"
+filename = "adaptive_performance_tweaks_items_1.20.1-11.6.1.jar"
+side = "both"
 
 [download]
-hash = 'e26058040dd1fbdb1991c0cdfa7ff93ac5d955ee'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+url = "https://cdn.modrinth.com/data/z3TjJLQ0/versions/i25Vc8Bg/adaptive_performance_tweaks_items_1.20.1-11.6.1.jar"
+hash-format = "sha256"
+hash = "6873158119f522c8cf3c68827991569ff8634d9284c1bd82c60988d5cf654021"
 
-[update.curseforge]
-file-id = 5815119
-project-id = 561439
+[update]
+[update.modrinth]
+mod-id = "z3TjJLQ0"
+version = "i25Vc8Bg"

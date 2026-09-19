@@ -1,16 +1,14 @@
-filename = 'Icarus-NeoForge-2.10.0.jar'
-name = 'Icarus'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Icarus"
+filename = "Icarus-NeoForge-2.10.0.jar"
+side = "both"
 
 [download]
-hash = '384b3ff53ad8efd75feb8848bef73173132771402b900958c2486474210285b8fb9fde0a2c6719197446b48a59c436b1034f52beca46ba6dadb0454d805bdc12'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/Dw7M6XKW/versions/zUZTM7u3/Icarus-NeoForge-2.10.0.jar'
+url = "https://cdn.modrinth.com/data/Dw7M6XKW/versions/zUZTM7u3/Icarus-NeoForge-2.10.0.jar"
+hash-format = "sha256"
+hash = "ca7e72b78f14577f59523edfb73c958474048032e776fbe86aeae85de2c3eab6"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'Dw7M6XKW'
-version = 'zUZTM7u3'
+mod-id = "Dw7M6XKW"
+version = "zUZTM7u3"

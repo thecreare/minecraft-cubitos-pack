@@ -1,16 +1,14 @@
-filename = 'alexscavesdelight-1.0.23-1.20.1.jar'
 name = "Alex's Caves Delight"
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+filename = "alexscavesdelight-1.0.23-1.20.1.jar"
+side = "both"
 
 [download]
-hash = 'aca98e61cac1d1bf2613626220b59b7c57304fb1ea42733bdf53ee26bef8c4a9b5c083b940a77e42699543f8fdf07a1a9872d3685dc6c1a245c5a065f555d1f8'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/c9CEGwyC/versions/kKZDwhFE/alexscavesdelight-1.0.23-1.20.1.jar'
+url = "https://cdn.modrinth.com/data/c9CEGwyC/versions/kKZDwhFE/alexscavesdelight-1.0.23-1.20.1.jar"
+hash-format = "sha256"
+hash = "b494b8a985169f3499e5199bf9c1fcaa6667cb3dddfe3e399af5a68211885b8e"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'c9CEGwyC'
-version = 'kKZDwhFE'
+mod-id = "c9CEGwyC"
+version = "kKZDwhFE"

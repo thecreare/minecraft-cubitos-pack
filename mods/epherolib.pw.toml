@@ -1,13 +1,13 @@
-filename = 'EpheroLib-1.20.1-FORGE-1.2.0.jar'
-name = 'EpheroLib'
-side = 'both'
+name = "EpheroLib"
+filename = "EpheroLib-1.20.1-FORGE-1.2.0.jar"
+side = "both"
 
 [download]
-hash = '1eca21b906d38321bf60919dd3b12d160e5e6935'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "8924a015f28348c806e6680addc2d5a8bcaf8439dd51ce48ce3b2f2b0e522407"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 4889101
 project-id = 885449

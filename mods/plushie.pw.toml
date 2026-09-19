@@ -1,13 +1,14 @@
-filename = 'plushies-1.4.0-forge.jar'
-name = 'Plushie Mod'
-side = 'both'
+name = "Plushie Mod"
+filename = "plushies-1.4.0-forge.jar"
+side = "both"
 
 [download]
-hash = 'fc7b8c86570aaa7bf79363f7bd573582b6dad1cc812d1c56004ea72357ddfc8c1fe4b488f1ed355fd29364d4c3a427931f6a4ac12f8d97d0795fb9332457fcb4'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/hsOK0gUP/versions/lioWGH5B/plushies-1.4.0-forge.jar'
+url = "https://cdn.modrinth.com/data/hsOK0gUP/versions/lioWGH5B/plushies-1.4.0-forge.jar"
+hash-format = "sha256"
+hash = "48d6c20f9a60265f6f13f76d152b85259e559e2f7b2cbfea729117f3d55598d9"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'hsOK0gUP'
-version = 'lioWGH5B'
+mod-id = "hsOK0gUP"
+version = "lioWGH5B"

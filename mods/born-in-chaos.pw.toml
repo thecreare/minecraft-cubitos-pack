@@ -1,16 +1,13 @@
-filename = 'born_in_chaos_[Forge]1.20.1_1.6.2_chilling-horror-event.jar'
-name = 'Born in Chaos '
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Born in Chaos "
+filename = "born_in_chaos_[Forge]1.20.1_1.6.2_chilling-horror-event.jar"
+side = "both"
 
 [download]
-hash = 'da26ef9e41a004adf1366e1fdd7e4bad7b6d17c3'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "c905c5e98ed2fcec95caa5c17d5dc283ddc5242e8cae63f79b457646cd08069c"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6053249
 project-id = 686437

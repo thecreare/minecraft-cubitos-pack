@@ -1,13 +1,13 @@
-filename = 'Luminous Tag V1.0 - 1.20.1.jar'
-name = 'Luminous Tag'
-side = 'server'
+name = "Luminous Tag"
+filename = "Luminous Tag V1.1 - Forge 1.20.1.jar"
+side = "both"
 
 [download]
-hash = 'bff9bbb220e028bb5822efec56f865d64a1d8606498cdfa2ebee5989d9e6240b200494c21fb28b25112dd2916710ed0a156dccea77b465a6aace026c6f1a9eea'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/uX4Rl6YL/versions/Wih0hBJz/Luminous Tag V1.0 - 1.20.1.jar'
+url = "https://cdn.modrinth.com/data/uX4Rl6YL/versions/9EHxwH4T/Luminous%20Tag%20V1.1%20-%20Forge%201.20.1.jar"
+hash-format = "sha512"
+hash = "5330e0e0167cffda5d50daa5f11cf0bde709d3351e73103153ee964e3f7d1307c5b2b10714034411f52082abf646e68673cd8f3c393da1c7bcce892895a88101"
 
+[update]
 [update.modrinth]
-mod-id = 'uX4Rl6YL'
-version = 'Wih0hBJz'
+mod-id = "uX4Rl6YL"
+version = "9EHxwH4T"

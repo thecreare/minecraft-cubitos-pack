@@ -1,16 +1,14 @@
-filename = 'PineappleDelight-Forge-1.20-1.0.8-Fix2.jar'
-name = 'Pineapple Delight'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Pineapple Delight"
+filename = "PineappleDelight-Forge-1.20-1.0.8-Fix2.jar"
+side = "both"
 
 [download]
-hash = 'c4386e28a5afae637b3dc12979d8a8e7845a93cdcac21283a6a104c3a76075ac435d5b49e3b5165c39a211b2f058e92f57237e993d54dad18b590f3b39ab977f'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/8wXnuOvg/versions/Devv7GEb/PineappleDelight-Forge-1.20-1.0.8-Fix2.jar'
+url = "https://cdn.modrinth.com/data/8wXnuOvg/versions/Devv7GEb/PineappleDelight-Forge-1.20-1.0.8-Fix2.jar"
+hash-format = "sha256"
+hash = "db1f9457bb3f9ad65f0f40e2ce996599b647fac13a91b58840542c660e21d0a6"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = '8wXnuOvg'
-version = 'Devv7GEb'
+mod-id = "8wXnuOvg"
+version = "Devv7GEb"

@@ -1,16 +1,13 @@
-filename = 'panorama-1.3.0 - 1.20.1.jar'
-name = 'Panorama'
-side = 'client'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Panorama"
+filename = "panorama-1.3.0 - 1.20.1.jar"
+side = "client"
 
 [download]
-hash = 'bc837d97024f0df3d5d1398e965adf45d904a253'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "9dc54f24f6c966d1e44cac95c61df4dcbffa3913624c270a4bd53a1e530786e8"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 4642492
 project-id = 440465

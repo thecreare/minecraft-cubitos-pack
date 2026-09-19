@@ -1,16 +1,13 @@
-filename = 'ingredientsdelight-1.0.3-1.20.1.jar'
-name = 'Ingredients Delight'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Ingredients Delight"
+filename = "ingredientsdelight-1.0.3-1.20.1.jar"
+side = "both"
 
 [download]
-hash = 'd3e82d1936f164e5e4bea0a2bdeffb9e93b78b39'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "7d7c8d1f65f0d39f5f3b5b6ddfa7a3ec7d3ed5a5dbcd8a07708b2901ca066eb3"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5994827
 project-id = 1099560

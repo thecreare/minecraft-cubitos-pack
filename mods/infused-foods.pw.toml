@@ -1,13 +1,14 @@
-filename = 'infusedfoods-1.20.1-10.0.0.jar'
-name = 'Infused Foods'
-side = 'both'
+name = "Infused Foods"
+filename = "infusedfoods-1.20.1-10.0.0.jar"
+side = "both"
 
 [download]
-hash = '32ede6f3e6bf5b02abc731c8dd547b5bbeff26385a648e281b4e04de25152036e4ae1f4a6311d6060da2910e0b992773c4a4b32e8ba8b57c93e8e4ff4b5f01b4'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/QinxcGwM/versions/aQTOpWkN/infusedfoods-1.20.1-10.0.0.jar'
+url = "https://cdn.modrinth.com/data/QinxcGwM/versions/aQTOpWkN/infusedfoods-1.20.1-10.0.0.jar"
+hash-format = "sha256"
+hash = "2792fe1dedbebc3e34bb5a798c44bf08813f181816abc30d4f774e870e4628b7"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'QinxcGwM'
-version = 'aQTOpWkN'
+mod-id = "QinxcGwM"
+version = "aQTOpWkN"

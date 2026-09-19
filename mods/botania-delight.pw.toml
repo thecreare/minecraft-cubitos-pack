@@ -1,16 +1,14 @@
-filename = 'botaniadelight-1.0.3.3-1.20.1.jar'
-name = 'Botania Delight'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Botania Delight"
+filename = "botaniadelight-1.0.3.3-1.20.1.jar"
+side = "both"
 
 [download]
-hash = 'f7d1d05784a35f615889f8428d075936481f8d610468ec26a897ee01c4ff437b5e775a8d17e376d7dc2ce7462384989491a277a706b29bb8ced1aa932f505de0'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/c5RUtis1/versions/7D2hwYnk/botaniadelight-1.0.3.3-1.20.1.jar'
+url = "https://cdn.modrinth.com/data/c5RUtis1/versions/7D2hwYnk/botaniadelight-1.0.3.3-1.20.1.jar"
+hash-format = "sha256"
+hash = "c4afee9de26fd313dbc4752b4b9dbdf73714176c718171ce581132b8beeab41c"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'c5RUtis1'
-version = '7D2hwYnk'
+mod-id = "c5RUtis1"
+version = "7D2hwYnk"

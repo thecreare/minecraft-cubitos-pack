@@ -1,16 +1,14 @@
-filename = 'snowundertrees-1.20.1-1.4.6.jar'
-name = 'Snow Under Trees'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Snow Under Trees"
+filename = "snowundertrees-1.20.1-1.4.6.jar"
+side = "both"
 
 [download]
-hash = '1ea850dc4b9ecfc5e440aeff16a97a80af19b424940332799dd982521e8c61eb4422364d2c322f6f264157e1b3ea3d2976e6f7dec71040c915ea4f31c9f51ec3'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/Q3vyMuj2/versions/MgzOel3G/snowundertrees-1.20.1-1.4.6.jar'
+url = "https://cdn.modrinth.com/data/Q3vyMuj2/versions/MgzOel3G/snowundertrees-1.20.1-1.4.6.jar"
+hash-format = "sha256"
+hash = "0368db7f0f31ad8ad530c80bcc6e222c15a0521fce0edfb7fac40374252f7f22"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'Q3vyMuj2'
-version = 'MgzOel3G'
+mod-id = "Q3vyMuj2"
+version = "MgzOel3G"

@@ -1,13 +1,14 @@
-filename = 'ctov-pneumaticcraft-compat-1.0.jar'
-name = 'CTOV - PneumaticCraft: Repressurized compat'
-side = 'server'
+name = "CTOV - PneumaticCraft: Repressurized compat"
+filename = "ctov-pneumaticcraft-compat-1.0.jar"
+side = "server"
 
 [download]
-hash = 'e58e8d61db131bfa4aa32b58111f0426529d630b8111544444edb53f97d6955d4fe775ce5bc05991cc05970a1b21e92df858f9f95b92fc11a7df82770ad08665'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/9OYJnLnl/versions/2wV6ynSb/ctov-pneumaticcraft-compat-1.0.jar'
+url = "https://cdn.modrinth.com/data/9OYJnLnl/versions/2wV6ynSb/ctov-pneumaticcraft-compat-1.0.jar"
+hash-format = "sha256"
+hash = "de20783925986f540d88979b000aac5b28cfa61ea6e4d0c8c73d2b09294c9aee"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = '9OYJnLnl'
-version = '2wV6ynSb'
+mod-id = "9OYJnLnl"
+version = "2wV6ynSb"

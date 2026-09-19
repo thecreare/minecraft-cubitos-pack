@@ -1,16 +1,14 @@
-filename = 'entityculling-forge-1.7.2-mc1.20.1.jar'
-name = 'EntityCulling'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "EntityCulling"
+filename = "entityculling-forge-1.7.2-mc1.20.1.jar"
+side = "both"
 
 [download]
-hash = '547ecae13eb982c2c43c2f107fccede69b2edd33a3005296fd880122760f569c98e42a3abb7d69526ebe79efb6846bad38ee8a1bb7e8afa62e18e5e052029647'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/NNAgCjsB/versions/yyU9Ifp0/entityculling-forge-1.7.2-mc1.20.1.jar'
+url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/yyU9Ifp0/entityculling-forge-1.7.2-mc1.20.1.jar"
+hash-format = "sha256"
+hash = "3b051b3e6a6229b05ecd04eb15c4f1f3080e3981203d89884221a0b9d396d080"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'NNAgCjsB'
-version = 'yyU9Ifp0'
+mod-id = "NNAgCjsB"
+version = "yyU9Ifp0"

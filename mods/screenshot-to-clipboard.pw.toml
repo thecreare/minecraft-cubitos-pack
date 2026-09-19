@@ -1,13 +1,14 @@
-filename = 'screenshot-to-clipboard-1.0.9-forge.jar'
-name = 'Screenshot to Clipboard'
-side = 'client'
+name = "Screenshot to Clipboard"
+filename = "screenshot-to-clipboard-1.0.9-forge.jar"
+side = "client"
 
 [download]
-hash = 'da8f6254b98c69cf614a1d43f53ae1279821c64374adaa440be5e1436893d1cdd72844a5fdd3bb897d4b410a722ddb586937c8b9d99474c67f103006f15af5fa'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/1KiJRrTg/versions/1.0.9%2Bforge/screenshot-to-clipboard-1.0.9-forge.jar'
+url = "https://cdn.modrinth.com/data/1KiJRrTg/versions/1.0.9%2Bforge/screenshot-to-clipboard-1.0.9-forge.jar"
+hash-format = "sha256"
+hash = "6a7f59a435490212f9b25b449e0077fb6d6d1320af5dd41e1da66fca453dcbc6"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = '1KiJRrTg'
-version = 'MUYzdknr'
+mod-id = "1KiJRrTg"
+version = "MUYzdknr"

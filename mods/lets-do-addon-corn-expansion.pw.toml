@@ -1,13 +1,14 @@
-filename = 'cornexpansion-forge-1.0.1.jar'
 name = "[Let's Do Addon] Corn Expansion"
-side = 'both'
+filename = "cornexpansion-forge-1.0.1.jar"
+side = "both"
 
 [download]
-hash = '933c5204761c415acb02de6924158cbe784e8c8d55f3dedd9a026fc87c656a4dfff8b1478dd1df50a0cb945549751922cef2bc901f2a07ec2aed7501bd93b3f3'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/20p2kirx/versions/aiLHEHR0/cornexpansion-forge-1.0.1.jar'
+url = "https://cdn.modrinth.com/data/20p2kirx/versions/aiLHEHR0/cornexpansion-forge-1.0.1.jar"
+hash-format = "sha256"
+hash = "bc10fc6e1f8d232a6da6658b08ed3e7cd8df7f1cc12d62a547c66d661179dcaa"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = '20p2kirx'
-version = 'aiLHEHR0'
+mod-id = "20p2kirx"
+version = "aiLHEHR0"

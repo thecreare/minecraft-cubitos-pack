@@ -1,0 +1,8 @@
+type = customizablemenus
+
+com.aetherteam.aether.client.gui.screen.menu.VanillaLeftTitleScreen {
+}
+
+com.feywild.feywild.screens.FeywildTitleScreen {
+}
+

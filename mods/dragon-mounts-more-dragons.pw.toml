@@ -1,13 +1,14 @@
-filename = 'moredragons-1.1.1.jar'
-name = 'Dragon Mounts: More Dragons'
-side = 'both'
+name = "Dragon Mounts: More Dragons"
+filename = "moredragons-1.1.1.jar"
+side = "both"
 
 [download]
-hash = '8ff3e18428332c539961bd2057b110f16839a5cc7f536a8e9b845618a3c0f207f36bd6a8b8ddf76b25dec877c4f4b9a83d93b441c8c0fe91038d0db516595a8a'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/6c9fDm6s/versions/djUucers/moredragons-1.1.1.jar'
+url = "https://cdn.modrinth.com/data/6c9fDm6s/versions/djUucers/moredragons-1.1.1.jar"
+hash-format = "sha256"
+hash = "17eaff4656b6c14e997fce1ba938601226430ff60dd94c2732f8802c5e69e0e9"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = '6c9fDm6s'
-version = 'djUucers'
+mod-id = "6c9fDm6s"
+version = "djUucers"

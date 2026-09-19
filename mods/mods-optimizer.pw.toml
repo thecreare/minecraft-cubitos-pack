@@ -1,13 +1,13 @@
-filename = 'mods_optimizer-forge-1.20.1-2.0.0.jar'
-name = 'Mods Optimizer'
-side = 'both'
+name = "Mods Optimizer"
+filename = "mods_optimizer-forge-1.20.1-4.3.0.jar"
+side = "both"
 
 [download]
-hash = 'a27ad00b3ee9451306a18d92d21ba93590ae0de8781b5f295801344b248fd7280d0666a2621024f3fd7b8687dd6643ec79bcc6e93b85c7af44ebebff565a9a0d'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/hlVtb1H0/versions/xopN7Y0n/mods_optimizer-forge-1.20.1-2.0.0.jar'
+url = "https://cdn.modrinth.com/data/hlVtb1H0/versions/XloTXFrR/mods_optimizer-forge-1.20.1-4.3.0.jar"
+hash-format = "sha256"
+hash = "dc9088ae6783198c747c00f64f2283365f1a03224116cc57f7999b2fad508578"
 
+[update]
 [update.modrinth]
-mod-id = 'hlVtb1H0'
-version = 'xopN7Y0n'
+mod-id = "hlVtb1H0"
+version = "XloTXFrR"

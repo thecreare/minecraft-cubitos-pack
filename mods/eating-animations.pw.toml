@@ -1,13 +1,14 @@
-filename = 'eatinganimation-1.20.1-5.1.0.jar'
-name = 'Eating Animations'
-side = 'client'
+name = "Eating Animations"
+filename = "eatinganimation-1.20.1-5.1.0.jar"
+side = "client"
 
 [download]
-hash = 'ca94f5f4f93606da8872012b450caeb64cc1d5697f5dc758e416d62e83f2f70cbc4a81dfc3951a2b80d9a9ee0d0ecd41c3e4c837fe4d418b524216e58d2064e3'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/X8CISwXp/versions/WqBpsYBv/eatinganimation-1.20.1-5.1.0.jar'
+url = "https://cdn.modrinth.com/data/X8CISwXp/versions/WqBpsYBv/eatinganimation-1.20.1-5.1.0.jar"
+hash-format = "sha256"
+hash = "506ffc2e2bcc5709c8121382c5d0428ca642ceaeebe2a9169c9b0475a83c657c"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'X8CISwXp'
-version = 'WqBpsYBv'
+mod-id = "X8CISwXp"
+version = "WqBpsYBv"

@@ -1,13 +1,14 @@
-filename = 'Zeta-1.0-24.jar'
-name = 'Zeta'
-side = 'both'
+name = "Zeta"
+filename = "Zeta-1.0-24.jar"
+side = "both"
 
 [download]
-hash = '929032eb6dbef3fea23b47e04495cdfad7a219409bf2adbbde2ac12b8607fd49140f79a6d18c640fd44fb0f4ebf23cc2f00bafe02fc4064555eec9e529d1982f'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/MVARlG2f/versions/MRyLCiek/Zeta-1.0-24.jar'
+url = "https://cdn.modrinth.com/data/MVARlG2f/versions/MRyLCiek/Zeta-1.0-24.jar"
+hash-format = "sha256"
+hash = "d840069f98288cc73bd57e5cb49b5646b8a91603b364d503da38626ea5dd36a9"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'MVARlG2f'
-version = 'MRyLCiek'
+mod-id = "MVARlG2f"
+version = "MRyLCiek"

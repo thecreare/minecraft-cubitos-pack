@@ -1,16 +1,13 @@
-filename = 'Feywild-1.20.1-4.0.4.jar'
-name = 'Feywild'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'beta'
+name = "Feywild"
+filename = "Feywild-1.20.1-4.0.4.jar"
+side = "both"
 
 [download]
-hash = '6900489b12e470dccb5c4867d8b46cdb92f71369'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "bd4e07c40f66e6131dbdb33114afd42831c47767636ed927629a05fb7607e94e"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5900150
 project-id = 484377

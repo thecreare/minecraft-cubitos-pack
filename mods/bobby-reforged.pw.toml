@@ -1,16 +1,13 @@
-filename = 'bobby-1.20.1_v5.0.1.jar'
-name = 'Bobby Reforged'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Bobby Reforged"
+filename = "bobby-1.20.1_v5.0.1.jar"
+side = "both"
 
 [download]
-hash = '8c98ee795e2e32189cb1b9bea53a7e310742e19a'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "4eb8296c24fa88cfc27145dc006b8acdea75d5f5175dd8b49dc5ef9709e66ee4"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 4650227
 project-id = 883502

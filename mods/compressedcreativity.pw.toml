@@ -1,13 +1,14 @@
-filename = 'compressedcreativity-1.20.1-0.1.8.b.jar'
-name = 'Compressed Creativity'
-side = 'both'
+name = "Compressed Creativity"
+filename = "compressedcreativity-1.20.1-0.1.8.b.jar"
+side = "both"
 
 [download]
-hash = '711566e0b612b63ea82a0670bdb1188d6fe9f78ac118409fe52d9c39e0b531b80b25d18286915966d1f7b76c23cac8a4aa80c7cf3e99f8de359669b4c1674227'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/Mt3rcQKj/versions/E7S9hkDd/compressedcreativity-1.20.1-0.1.8.b.jar'
+url = "https://cdn.modrinth.com/data/Mt3rcQKj/versions/E7S9hkDd/compressedcreativity-1.20.1-0.1.8.b.jar"
+hash-format = "sha256"
+hash = "ef27562a1994a410479e4d1c2badd79f6fc061bf0d996156b56d6886978a16df"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'Mt3rcQKj'
-version = 'E7S9hkDd'
+mod-id = "Mt3rcQKj"
+version = "E7S9hkDd"

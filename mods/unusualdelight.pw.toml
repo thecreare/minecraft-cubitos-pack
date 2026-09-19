@@ -1,13 +1,14 @@
-filename = 'Unusual_Delight_2.7.jar'
-name = 'Unusual Delight'
-side = 'both'
+name = "Unusual Delight"
+filename = "Unusual_Delight_2.7.jar"
+side = "both"
 
 [download]
-hash = '6c6b23d2a8296aafd20805838d8888fa7f0c1ed98581d6f4e4e0c42ac8217a53b9b7f9898756e77c9d0919421201612c69fda32b41aaed822b8ec8b1c0f13526'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/Vk1c4Wrc/versions/8xtK2fK3/Unusual_Delight_2.7.jar'
+url = "https://cdn.modrinth.com/data/Vk1c4Wrc/versions/8xtK2fK3/Unusual_Delight_2.7.jar"
+hash-format = "sha256"
+hash = "dd80dcf0dee577c10758ff11f7b3731bbad7d84c7f103ce476b834e08bd788b7"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'Vk1c4Wrc'
-version = '8xtK2fK3'
+mod-id = "Vk1c4Wrc"
+version = "8xtK2fK3"

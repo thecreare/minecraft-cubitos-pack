@@ -1,13 +1,14 @@
-filename = 'chococraft-1.20.1-forge-0.9.12.jar'
-name = 'Chococraft'
-side = 'both'
+name = "Chococraft"
+filename = "chococraft-1.20.1-forge-0.9.12.jar"
+side = "both"
 
 [download]
-hash = '2de76e5b25d6c52b8a9a2bfb7744cdd77fb4750a3464f777aaeb40e6c9b261ea87dbb02d30ffd6f497f70648b5549ec2f83e0e9c8cf9036286caa1fef7f26fa0'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/bPTEaC7v/versions/unBrj1OZ/chococraft-1.20.1-forge-0.9.12.jar'
+url = "https://cdn.modrinth.com/data/bPTEaC7v/versions/unBrj1OZ/chococraft-1.20.1-forge-0.9.12.jar"
+hash-format = "sha256"
+hash = "c3fb81f56a93d6d1dfa79aa9dac84397d00b815c022b19347aca61d6216b32ce"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'bPTEaC7v'
-version = 'unBrj1OZ'
+mod-id = "bPTEaC7v"
+version = "unBrj1OZ"

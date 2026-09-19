@@ -1,16 +1,14 @@
-filename = 'ubesdelight-forge-1.20.1-0.3.1.jar'
 name = "Ube's Delight"
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+filename = "ubesdelight-forge-1.20.1-0.3.1.jar"
+side = "both"
 
 [download]
-hash = 'f8707a9d1f71f5c61a202aff27ef29403254f906da17d101d8cd3c7fb1a8813c20db883ad32745f6d408ca3c3e6f77807168ee63673cd5f5ec853432e265eb18'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/PYjpoAys/versions/UxRq5PEj/ubesdelight-forge-1.20.1-0.3.1.jar'
+url = "https://cdn.modrinth.com/data/PYjpoAys/versions/UxRq5PEj/ubesdelight-forge-1.20.1-0.3.1.jar"
+hash-format = "sha256"
+hash = "aeb639bdb56c7675c244d5080d28ccc637281bac83cef4110cdfb28e2284c86d"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'PYjpoAys'
-version = 'UxRq5PEj'
+mod-id = "PYjpoAys"
+version = "UxRq5PEj"

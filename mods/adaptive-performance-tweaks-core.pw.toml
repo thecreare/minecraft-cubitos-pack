@@ -1,16 +1,13 @@
-filename = 'adaptive_performance_tweaks_core_1.20.1-11.3.0.jar'
-name = 'APTweaks: Core'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "APTweaks: Core (11.x Classic)"
+filename = "adaptive_performance_tweaks_core_1.20.1-11.6.1.jar"
+side = "both"
 
 [download]
-hash = 'b707e33365b13eea3d6aac91a61d03a265588362'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+url = "https://cdn.modrinth.com/data/L5xaBiBb/versions/lyiW3FfI/adaptive_performance_tweaks_core_1.20.1-11.6.1.jar"
+hash-format = "sha256"
+hash = "7d64acf55617ced920f645b5d17956716cca8fc8a3c62b0034924d40abff22d8"
 
-[update.curseforge]
-file-id = 5815117
-project-id = 561087
+[update]
+[update.modrinth]
+mod-id = "L5xaBiBb"
+version = "lyiW3FfI"
