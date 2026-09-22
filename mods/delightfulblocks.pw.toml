@@ -1,6 +1,6 @@
 name = "Delightful Blocks"
 filename = "Delightful Blocks - 1.0.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/6GArLUEs/versions/O2eXyDzA/Delightful Blocks - 1.0.0.jar"

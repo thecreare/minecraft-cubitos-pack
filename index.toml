@@ -69,10 +69,6 @@ file = "config/feywild/client.json5"
 hash = "6a3bbb550835a8bb7fc4c7726cdde7df953d72a1331f48ed498cc78284ab085d"
 
 [[files]]
-file = "config/mafglib.json"
-hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
-
-[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "ca92e91a2d856d42e4a5b1ba1900fbed0e942bcbeddd75c0195a2375ade75695"
 
@@ -83,6 +79,10 @@ hash = "f607613fba825fac864f11a7f4679979bc9696a63e18264ba3bb8abe31bcf847"
 [[files]]
 file = "icon.png"
 hash = "498a42f362e08bc5b8487b2d33a5fceee6a4c47fec5d128b2973c3381114a481"
+
+[[files]]
+file = "mods/CroptopiaDelight-1.20.1_1.2.2-forge.jar"
+hash = "5df72d20807f0ffe3951af8ab8d4d42d52bb93f9e6ab541e82ddd04c3b72b782"
 
 [[files]]
 file = "mods/MOAdecor ELECTRONICS 1.20.1.A.jar"
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "cec2f46e135859b51488dbd7a0b926edc4565bde4cb46e24df6da34c111033b7"
+hash = "3bea02c41b38294965131f6113b0fda045dfc295789a159a61999603cb3b4100"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby-reforged.pw.toml"
-hash = "ca59c5086a9b0fdd2814da61201c9f00982405fe0fe9ab3b81cec9d8a57e3f5d"
+hash = "d84ed6a4226d56570fcd1e1e67cdebf587f9662d01beac5d1a70ef51f2bf763d"
 metafile = true
 
 [[files]]
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/catalogue.pw.toml"
-hash = "ef8f9c24997bbe8fc1652177f97d54bbbe2addb5534eb54e6c97fa1d55586d67"
+hash = "1bb467450e3a161c5fc8e4a7b563f8e4c66406eb4c75ef0404d360362d5e53fa"
 metafile = true
 
 [[files]]
@@ -508,11 +508,6 @@ hash = "bf23f8a82547b37c6e28542e905fcf05f374476afae5c9bfdcf0b9eea5cd3b41"
 metafile = true
 
 [[files]]
-file = "mods/create-dynamic-lights.pw.toml"
-hash = "2d0b654ed847420e049a050b4e05989fd8b77d5509a1cf418c4d937447c73a08"
-metafile = true
-
-[[files]]
 file = "mods/create-food.pw.toml"
 hash = "ac44b7d7c14947083172b9760dc426302a06a9672118c575212d88601b5ca317"
 metafile = true
@@ -609,12 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-player-models.pw.toml"
-hash = "543eaa564985f0e974a4b196ad68732bf19ea10230ec4c8131f41772a0a49ad1"
-metafile = true
-
-[[files]]
-file = "mods/dcintegration.pw.toml"
-hash = "8de5fd6c7096094dc466288897a3e741dc40c1f02b414edefa11917fbab14e03"
+hash = "137505fc44ff023abaed9f94b3cd7f0d59575300894af1a4eaf531bf12c926e6"
 metafile = true
 
 [[files]]
@@ -654,7 +644,7 @@ metafile = true
 
 [[files]]
 file = "mods/delightfulblocks.pw.toml"
-hash = "4b95f92a07de23c29d7c7d938f538a64c199fda42c19f5a2b4f9a2779539dedf"
+hash = "f7d63ea02c29e7ccfd7bceeba06496052adcd387346ce90a25037a5af7a5e51f"
 metafile = true
 
 [[files]]
@@ -754,7 +744,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "4f08c7e29f487df8d3f04a5032015507d6053713a68c7449e925f7b65a91018d"
+hash = "3e27e99cfd531d85e35f21bbaf4f76e98d2f40911869a27022d788dfd8e69880"
 metafile = true
 
 [[files]]
@@ -774,7 +764,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "8918d6fb5f7d980d661b6459a3f216a2a692c092c443da9961dc80a45084de0d"
+hash = "9b3884f7e1e61f15051bc0fbf6896e17dd7e4e6d220fc2b15ce4dc248779654f"
 metafile = true
 
 [[files]]
@@ -819,7 +809,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "b9d8103095a873fcf0c05fc732848d550d2f2d26aa19528c1f4483ff23c8a803"
+hash = "11059fd09c87765dfe4911ed01188f72c09137769d3985259eb496cfe2a68ea2"
 metafile = true
 
 [[files]]
@@ -949,7 +939,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "78a2c6aebb5d1e79c1c0b395d7d710917fdf866a443823ee69f87c97f498c85c"
+hash = "b6939c907549cf6f0d3ac82c965380a6b6d8aabd53af23e3ef2d79e658d53e92"
 metafile = true
 
 [[files]]
@@ -989,7 +979,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "a6ae24e9904c810412c9cf193d72c1a915f69000480a7f5a263e85e40ff73921"
+hash = "4f80e8e146b4b7ec36dff6361ba424eb6fbaa81f3cbd4f7d16dedc779ea75216"
 metafile = true
 
 [[files]]
@@ -1065,11 +1055,6 @@ metafile = true
 [[files]]
 file = "mods/krypton-reforged.pw.toml"
 hash = "5526ac048a805d7be236f6c2f2551ac1f656018fc9ed743d98969baac5abc305"
-metafile = true
-
-[[files]]
-file = "mods/ksyxis.pw.toml"
-hash = "143e90326e92c632bffb13543805913e9e8d40d8e3d5fcaa01248cf97f66a5bb"
 metafile = true
 
 [[files]]
@@ -1323,11 +1308,6 @@ hash = "dc7a6ef6eadc3eaf0a25c9c7e22e5a8fddb189e145fdf26609040e88f251f174"
 metafile = true
 
 [[files]]
-file = "mods/mods-optimizer.pw.toml"
-hash = "4fab4c09297f7d46416fbffaf7eeefc33a330d390d40b052352ccbc4259a4f5a"
-metafile = true
-
-[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "261e2557cbdc40d5314e9bc85da19b3ab0e21a05e4be445be9c6b47b5dcce1e0"
 metafile = true
@@ -1434,7 +1414,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "7b87da376428165274ef1c39984111bb30e5b2e7ae557e023d810d1335e3eea6"
+hash = "daeed96e65e87e5c54621237a810f9cd49b0930c7ee116be218dffef0152f00f"
 metafile = true
 
 [[files]]
@@ -1524,7 +1504,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps-forge.pw.toml"
-hash = "6ffd1961049e1a8f9c66ba4f7a132e03f48b5c63fc47121c5e132fd30bc4d7ab"
+hash = "f17c958cf3617f0576332f299fe080e395061fd911460a228d65bbf826512e15"
 metafile = true
 
 [[files]]
@@ -1873,7 +1853,7 @@ metafile = true
 
 [[files]]
 file = "mods/tool-stats.pw.toml"
-hash = "bc30752586f6c09a6ea2991f70cc8c038f34d5f64a998e32d7d221efa90f6fe5"
+hash = "cf95afee320cc315f620e5daf83c01cbd5c6c8b334bdcf81b947913f5c2e224e"
 metafile = true
 
 [[files]]
