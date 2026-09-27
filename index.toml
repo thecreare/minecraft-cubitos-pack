@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/astrocraft.json"
-hash = "275b27775c613089778bc95929f65e2479b0105c8aec6084154d4ffc363c712d"
+hash = "3071865d5b18b7f41fdc81abe292a89717e134c8d0be1a0d3223a863e6c91349"
 
 [[files]]
 file = "config/betternether/biomes.json"
